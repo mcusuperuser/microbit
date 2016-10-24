@@ -29,4 +29,4 @@ Falls Dein micro:bit nicht mehr reagiert: zieh' ihm den Stecker, d.h. trenne die
 
 ## Weiter geht's...
 
-Wenn Du hier fertig bist, mache mit der [nächsten Lektion](../Lektion_02/02_Images.md) weiter.
+Wenn Du hier fertig bist, mache mit der [nächsten Lektion](02_Images.md) weiter.
