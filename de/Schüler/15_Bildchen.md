@@ -30,3 +30,9 @@ boot = Image("05050:"
 
 display.show(boot)
 ```
+
+Welches Bildchen möchtest Du anzeigen? Lasse Deiner Fantasie freien Lauf!
+
+## Weiter geht's...
+
+In der [nächsten Lektion](20_Bewegte_Bilder.md) lernst Du, wie man den Bildern das Laufen beibringt.
