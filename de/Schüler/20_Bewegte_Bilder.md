@@ -40,4 +40,4 @@ Kannst Du das Bildchen, das Du in der [vorherigen Lektion](15_Bildchen.md) gezei
 
 ## Weiter geht's...
 
-Die [nächste Lektion](25_Knöpfe.md) zeigt Dir, was man mit den Knöpfen **A** und **B** anfangen kann..
+Die [nächste Lektion](25_Tasten.md) zeigt Dir, was man mit den Tasten **A** und **B** anfangen kann.
