@@ -2,7 +2,7 @@
 
 Bis jetzt haben wir Programme für unseren micro:bit geschrieben, die dafür gesorgt haben, er etwas anzeigt. Das nennt man Ausgabe/Output. Man kann aber auch dafür sorgen, dass er darauf wartet, dass etwas passiert. Das nennt man Eingabe/Input.
 
-Wie können wir nun etwas eingeben? Der micro:bit hat ja weder Maus noch Touchscreen. Er hat aber eine Tastatur, die aus zwei Tasten besteht, nämlich **A** und **B**. Jetzt müssne wir nur noch dafür sorgen, dass er auf eine Eingabe wartet. Das geht ganz einfach:
+Wie können wir nun etwas eingeben? Der micro:bit hat ja weder Maus noch Touchscreen. Er hat aber eine Tastatur, die aus zwei Tasten besteht, nämlich **A** und **B**. Jetzt müssen wir nur noch dafür sorgen, dass er auf eine Eingabe wartet. Das geht ganz einfach:
 
 ```python
 from microbit import *
