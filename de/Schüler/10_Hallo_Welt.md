@@ -21,7 +21,7 @@ Diese zwei Zeilen Code sagen Deinem micro:bit Folgendes:
 
 ### ACHTUNG!
 
-Es könnte schief gehen. Normalerweise ist das kein Problem. Eigentlich ist das der Punkt, an dem der echte Spaß beginnt! MicroPython versucht immer, hilfreich zu sein. Wenn es einen Fehler findet, wird es eine Nachricht übe das Display Deines micro:bit laufen lassen. IfWenn möglich, wird die Zeile, in derder Fehler aufgetreten ist, angezeigt.
+Es könnte schief gehen. Normalerweise ist das kein Problem. Eigentlich ist das der Punkt, an dem der echte Spaß beginnt! MicroPython versucht immer, hilfreich zu sein. Wenn es einen Fehler findet, wird es eine Nachricht über das Display Deines micro:bit laufen lassen. Wenn möglich, wird die Zeile, in derder Fehler aufgetreten ist, angezeigt.
 
 Check Deinen Code: hast Du alles richtig abgetippt? Die Programmiersprache Python erwartet von Dir, dass Du alles richtig schreibst. Überprüfe Deine Schreibweisen (`display/Display/disPlay`) und Deine Zeichensetzung (hast Du auch wirklich einen . zwischen `display` und `scroll` und hast Du auch Anführungszeichen um `Hallo Welt!`?).
 
